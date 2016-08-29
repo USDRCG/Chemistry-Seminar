@@ -1,1 +1,18 @@
+Linux OS
+#Within a terminal, enter the following:
+ssh username@hpc.usd.edu
+#You will then be prompted to enter a password which should be the same as your myusd password:
+username@hpc.usd.edu's password:passwordhere
 
+Mac OS
+#Access the terminal, HardDrive, Applications, Utilities, Terminal
+#Within a terminal, enter the following:
+ssh username@hpc.usd.edu
+#YOuwill then be prompted to enter a password which should be the same as your myusd password:
+username@hpc.usd.edu's password:passwordhere
+
+Windows OS
+#Uninstall windows and install a linux distro or buy a mac (just kidding...but really).
+#If you don't want to do this, you will need to install PuTTY or Cygwin to interface with the cluster
+#PuTTY (http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
+#Cygwin (https://www.cygwin.com)
