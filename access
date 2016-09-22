@@ -12,7 +12,6 @@ ssh username@hpc.usd.edu
 username@hpc.usd.edu's password:passwordhere
 
 Windows OS
-#Uninstall windows and install a linux distro or buy a mac (just kidding...but really).
-#If you don't want to do this, you will need to install PuTTY or Cygwin to interface with the cluster
+#you will need to install PuTTY or Cygwin to interface with the cluster
 #PuTTY (http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
 #Cygwin (https://www.cygwin.com)
